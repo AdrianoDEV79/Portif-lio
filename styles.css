@@ -386,6 +386,10 @@ footer i {
     #welcome-section > p {
     font-size: 2rem;
 }
+    
+        #welcome-section > h1 {
+    font-size: 4rem;
+}
 
     #projects{
         margin-left:5px;
